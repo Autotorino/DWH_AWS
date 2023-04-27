@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_MZX84eT_Ee2S5sU4j_wVZA" label="DWH_AWS_SEND" description="DWH_AWS - Progetto per trasmissione dati dal DataMart-DWH allo storage Cloud AWS" language="java" technicalLabel="DWH_AWS_SEND" author="_MZX84uT_Ee2S5sU4j_wVZA" productVersion="Talend Cloud Data Integration-8.0.1.20220818_1145-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Autotorino/DWH_AWS.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_MauAsOT_Ee2S5sU4j_wVZA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_MZX84uT_Ee2S5sU4j_wVZA" login="gmazzoni@autotorino.it" firstName="DWH" lastName="Autotorino" type="DI"/>
+</xmi:XMI>
