@@ -1,5 +1,5 @@
 {
-  "itemId" : "_4SQKgBRWEeqklYtHY8JuqQ",
+  "itemId" : "_AfZ0IPrKEe2yGcCa1EJHAw",
   "contextList" : [ {
     "contextName" : "prod",
     "repoId" : "_McuX8KloEemvdbMxCJroiw",
@@ -90,12 +90,6 @@
     }, {
       "id" : "_CNjS2_--Ee2rseVzHUy1Aw",
       "name" : "AWS_DOCUMENTDB_TRUSTORE_PWD"
-    }, {
-      "id" : "_3frTgv_AEe2rseVzHUy1Aw",
-      "name" : "AWS_DOCUMENTDB_DATABASE"
-    }, {
-      "id" : "_3frTg__AEe2rseVzHUy1Aw",
-      "name" : "AWS_DOCUMENTDB_COLLECTION"
     } ]
   }, {
     "contextName" : "dev",
@@ -187,12 +181,6 @@
     }, {
       "id" : "_CNjS4f--Ee2rseVzHUy1Aw",
       "name" : "AWS_DOCUMENTDB_TRUSTORE_PWD"
-    }, {
-      "id" : "_3f1EgP_AEe2rseVzHUy1Aw",
-      "name" : "AWS_DOCUMENTDB_DATABASE"
-    }, {
-      "id" : "_3f1Egf_AEe2rseVzHUy1Aw",
-      "name" : "AWS_DOCUMENTDB_COLLECTION"
     } ]
   }, {
     "contextName" : "Default",
@@ -284,12 +272,6 @@
     }, {
       "id" : "_CNjS1f--Ee2rseVzHUy1Aw",
       "name" : "AWS_DOCUMENTDB_TRUSTORE_PWD"
-    }, {
-      "id" : "_3frTgP_AEe2rseVzHUy1Aw",
-      "name" : "AWS_DOCUMENTDB_DATABASE"
-    }, {
-      "id" : "_3frTgf_AEe2rseVzHUy1Aw",
-      "name" : "AWS_DOCUMENTDB_COLLECTION"
     } ]
   } ]
 }
